@@ -1,7 +1,7 @@
 <p align="center">
 <img height=450 width=1080 src="https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/main/components/Luci.gif">
 </p>
-<h1 align="center">Hey there,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Sherief <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
+<h1 align="center">Hey there,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Bernard <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
 <div align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2331EE32&center=true&width=500&lines=Full+Stack+Developer;Block+Chain+Enthusiast;Gamer;CTF+newbie;Leet+Coding;Visual+FX"></a>
 </div>
