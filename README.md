@@ -1,5 +1,5 @@
 <p align="center">
-<img height=450 width=1080 src="https://github.com/SuhailSherief/SuhailSherief/blob/main/components/Luci.gif">
+<img height=450 width=1080 src="https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/main/components/Luci.gif">
 </p>
 <h1 align="center">Hey there,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Sherief <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
 <div align="center">  
@@ -86,25 +86,25 @@
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhailSherief&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeGaTroNOO7&theme=github_dark)
   
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuhailSherief&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhailSherief&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeGaTroNOO7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeGaTroNOO7&theme=github_dark)
   
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuhailSherief&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuhailSherief&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeGaTroNOO7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeGaTroNOO7&theme=github_dark)
   
 <br/>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailSherief&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeGaTroNOO7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 <br/>
 
-![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhailSherief&show_icons=true&theme=radical)
+![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaTroNOO7&show_icons=true&theme=radical)
   
 <br/>
   
@@ -114,7 +114,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=SuhailSherief&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=MeGaTroNOO7&style=for-the-badge)
 </div>
