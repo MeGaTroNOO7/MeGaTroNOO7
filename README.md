@@ -78,7 +78,7 @@
 ### Listening To Spotify
 <img align="right" alt="GIF" height="120px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=ecf05e47kgy47ghmzz51zcm0k5u435h9lzecgvg87l66dueb&rid=giphy.gif&ct=s" />
 
-[![Spotify](https://novatorem-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/t5mtydv1bg32vpbgmp2vdwi9l)
+[![Spotify](https://novatorem-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/t5mtydv1bg32vpbgmp2vdwi9l?si=ff2226bd22fc4e56)
 
 ### Git Activity
 
