@@ -116,7 +116,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MeGaTroNOO7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MeGaTroNOO7&theme=buefy-dark)](https://git.io/streak-stats)
 
 <div align="center">
 
