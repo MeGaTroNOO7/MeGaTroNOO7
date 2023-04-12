@@ -104,7 +104,7 @@
   
 <br/>
 
-![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaTroNOO7&show_icons=true&theme=radical)
+![MeGaTroNOO7 GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaTroNOO7&show_icons=true&theme=radical)
   
 <br/>
   
@@ -112,10 +112,18 @@
 
 ### Contributions
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=megatronoo7&label=Profile%20views&color=fb5656&style=flat" alt="megatronoo7" /> </p>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MeGaTroNOO7&theme=buefy-dark)](https://git.io/streak-stats)
+
 <div align="center">
 
 
-![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MeGaTroNOO7/MeGaTroNOO7/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
