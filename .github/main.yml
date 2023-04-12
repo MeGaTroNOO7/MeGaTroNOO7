@@ -10,6 +10,8 @@ on:
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
@@ -24,6 +26,7 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
+      
 
     # Generates the snake  
       - uses: Platane/snk@master
