@@ -104,13 +104,17 @@
   
 <br/>
 
-![Sherief's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaTroNOO7&show_icons=true&theme=radical)
+![MeGaTroNOO7 GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaTroNOO7&show_icons=true&theme=radical)
   
 <br/>
   
 </div>
 
 ### Contributions
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MeGaTroNOO7"/></a>
+</p>
 
 <div align="center">
 
