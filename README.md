@@ -117,7 +117,7 @@
 <h3 align="left"></h3>
 <p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MeGaTroNOO7)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhailSherief)](https://git.io/streak-stats)</p>
 
 <div align="center">
 
