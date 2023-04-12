@@ -112,12 +112,20 @@
 
 ### Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeGaTroNOO7&" alt="MeGaTroNOO7" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=megatronoo7&label=Profile%20views&color=fb5656&style=flat" alt="megatronoo7" /> </p>
+
+<h3 align="left"></h3>
+<p align="center">
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeGaTroNOO7&theme=dark" alt="MeGaTroNOO7" /></p>
 
 <div align="center">
 
 
-![snake gif](https://github.com/SuhailSherief/SuhailSherief/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/MeGaTroNOO7/MeGaTroNOO7/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
