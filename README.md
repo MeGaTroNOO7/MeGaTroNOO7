@@ -112,6 +112,8 @@
 
 ### Contributions
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeGaTroNOO7&" alt="MeGaTroNOO7" /></p>
+
 <div align="center">
 
 
