@@ -104,7 +104,7 @@
   
 <br/>
 
-![MeGaTroNOO7 GitHub stats](https://github-readme-stats.vercel.app/api?username=MeGaTroNOO7&show_icons=true&theme=radical)
+
   
 <br/>
   
@@ -127,5 +127,5 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=MeGaTroNOO7&style=for-the-badge)
+
 </div>
