@@ -118,7 +118,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MeGaTroNOO7&theme=buefy-dark)](https://git.io/streak-stats)
 
-<div align="center">
+<div align="right">
 
 
 ![snake gif](https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/output/github-contribution-grid-snake.svg)
