@@ -100,8 +100,7 @@
   
 <br/>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeGaTroNOO7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 <br/>
 
 
