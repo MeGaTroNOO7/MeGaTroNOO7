@@ -99,7 +99,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeGaTroNOO7&theme=github_dark)
   
 <br/>
-
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MeGaTroNOO7&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
