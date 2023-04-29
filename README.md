@@ -100,7 +100,7 @@
   
 <br/>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MeGaTroNOO7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MeGaTroNOO7&theme=red)](https://git.io/streak-stats)
 
 <br/>
 
