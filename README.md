@@ -84,7 +84,7 @@
 
 <br/>
 
-<div align="right">
+<div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeGaTroNOO7&theme=github_dark)
   
