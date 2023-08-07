@@ -121,7 +121,7 @@
 <div align="left">
 
 
-![snake gif](https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
