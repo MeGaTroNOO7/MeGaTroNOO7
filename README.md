@@ -121,10 +121,12 @@
 
 ![snake gif](https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+<br/>
 <div align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megatronoo7&label=Profile%20views&color=fb5656&style=flat" alt="megatronoo7" /> </p>
+
+<br/>
 
 
 
