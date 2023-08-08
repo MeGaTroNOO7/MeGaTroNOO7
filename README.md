@@ -125,6 +125,7 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=megatronoo7&label=Profile%20views&color=fb5656&style=flat" alt="megatronoo7" /> </p>
 
 
 
