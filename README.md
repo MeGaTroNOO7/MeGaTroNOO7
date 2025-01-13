@@ -1,5 +1,5 @@
 <p align="center">
-<img height=600 width=1080 src="https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/main/components/samurai-sunset-field-moewalls-com.gif">
+<img height=400 width=1080 src="https://github.com/MeGaTroNOO7/MeGaTroNOO7/blob/main/components/samurai-sunset-field-moewalls-com.gif">
 </p>
 <h1 align="center">Hey there,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Bernard <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
 <div align="center">  
